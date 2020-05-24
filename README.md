@@ -1,1 +1,1 @@
-# springboot-crud-postgress
+A springboot based flyway database migration implementation
